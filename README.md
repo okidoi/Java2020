@@ -1,11 +1,18 @@
-# java2020
+# Java2020
 
 Exemplos Java
 
 -> Lambdas
+
 -> Streams
+
 -> Modularidade
+
 -> Generics
+
 -> JPA
+
 -> SpringBoot
+
 -> NO SQL
+
