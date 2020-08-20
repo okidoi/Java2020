@@ -11,7 +11,5 @@ public class Exemplo1 {
 		lista.forEach(System.out::println);		
 		
 	}
-	
-	//TODO: Coisa 1 pra fazer @Jose
 
 }
